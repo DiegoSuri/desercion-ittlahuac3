@@ -87,4 +87,44 @@ with tab2:
     fig4 = px.bar(
         df_beca, x="beca_transporte_sectei", y="Estudiantes", color="Estatus", barmode="group",
         color_discrete_map={'Permanece (0)': '#2b5c8f', 'Deserta (1)': '#d95f02'},
-        title="Impacto de la Beca de Transporte SECT
+        title="Impacto de la Beca de Transporte SECTEI en la Permanencia",
+        labels={'beca_transporte_sectei': '¿Cuenta con Beca de Transporte?'}
+    )
+    c4.plotly_chart(fig4, use_container_width=True)
+
+with tab3:
+    st.subheader("Simulador de Riesgo Individual (Modelo Árbol de Decisión)")
+    st.write("Ajusta los parámetros del estudiante para calcular su probabilidad de abandono escolar:")
+
+    df_m = pd.get_dummies(df.drop(columns=['id_estudiante']), drop_first=True)
+    X = df_m.drop(columns=['desercion'])
+    y = df_m['desercion']
+    clf = DecisionTreeClassifier(max_depth=4, random_state=42).fit(X, y)
+
+    col_a, col_b, col_c = st.columns(3)
+    prom = col_a.slider("Promedio General", 50.0, 100.0, 78.0)
+    rep = col_b.number_input("Materias Reprobadas", 0, 8, 1)
+    asist = col_c.slider("Asistencia (%)", 40.0, 100.0, 85.0)
+    tras = col_a.slider("Tiempo de Traslado (min)", 10, 150, 60)
+    beca = col_b.selectbox("¿Cuenta con Beca Transporte?", ["Si", "No"])
+    trab = col_c.selectbox("¿Trabaja actualmente?", ["No", "Si"])
+
+    fila = pd.DataFrame(0, index=[0], columns=X.columns)
+    fila['semestre'] = 3
+    fila['promedio_general'] = prom
+    fila['materias_reprobadas'] = rep
+    fila['asistencia_pct'] = asist
+    fila['traslado_min'] = tras
+    if 'beca_transporte_sectei_Si' in fila.columns:
+        fila['beca_transporte_sectei_Si'] = 1 if beca == "Si" else 0
+    if 'trabaja_Si' in fila.columns:
+        fila['trabaja_Si'] = 1 if trab == "Si" else 0
+
+    pred = clf.predict(fila)[0]
+    prob = clf.predict_proba(fila)[0][1] * 100
+
+    st.divider()
+    if pred == 1:
+        st.error(f"⚠️ ALERTA: Riesgo ALTO de deserción ({prob:.1f}% de probabilidad). Canalizar a tutorías y apoyo de beca.")
+    else:
+        st.success(f"✅ ESTABLE: Riesgo BAJO de deserción ({prob:.1f}% de probabilidad de abandono).")
