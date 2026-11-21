@@ -1,0 +1,401 @@
+id_estudiante,carrera,semestre,promedio_general,materias_reprobadas,asistencia_pct,traslado_min,beca_transporte_sectei,trabaja,desercion
+1001,Ing. en Sistemas Comp.,1,76.2,0,87.6,120,No,No,0
+1002,Ing. Industrial,6,73.9,4,81.2,30,No,No,1
+1003,Ing. en Gestión Emp.,1,80.0,2,80.8,116,No,No,0
+1004,Ing. en Sistemas Comp.,1,71.7,0,66.8,74,No,No,1
+1005,Ing. en Ciencia de Datos,6,76.0,1,93.7,80,No,No,0
+1006,Ing. en Ciencia de Datos,4,70.2,0,83.1,80,Si,Si,1
+1007,Ing. en Ciencia de Datos,8,98.7,2,82.0,104,No,No,0
+1008,Ing. Industrial,1,81.3,0,100.0,27,No,No,0
+1009,Ing. en Gestión Emp.,6,80.6,1,87.3,70,Si,No,0
+1010,Ing. en Gestión Emp.,5,82.9,0,75.7,125,No,Si,0
+1011,Ing. en Ciencia de Datos,3,80.0,5,79.3,45,Si,No,0
+1012,Ing. Industrial,3,79.0,0,96.6,48,No,Si,0
+1013,Ing. Industrial,1,86.5,1,85.2,53,No,No,0
+1014,Ing. en Ciencia de Datos,4,87.8,1,68.2,81,Si,No,0
+1015,Ing. en Ciencia de Datos,4,76.2,1,94.1,22,No,Si,0
+1016,Ing. en Ciencia de Datos,5,75.8,0,76.7,101,No,No,0
+1017,Ing. en Sistemas Comp.,1,78.5,1,100.0,92,Si,No,0
+1018,Ing. en Sistemas Comp.,3,60.3,2,95.9,69,No,No,0
+1019,Ing. en Sistemas Comp.,4,67.4,2,79.1,41,No,Si,1
+1020,Ing. en Ciencia de Datos,1,93.3,2,98.1,107,Si,Si,0
+1021,Ing. en Gestión Emp.,7,95.8,5,84.7,117,Si,Si,1
+1022,Ing. en Ciencia de Datos,4,78.8,3,93.4,67,Si,Si,1
+1023,Ing. en Ciencia de Datos,6,86.2,1,89.3,53,Si,No,0
+1024,Ing. en Sistemas Comp.,7,83.8,2,74.7,79,No,Si,0
+1025,Ing. en Sistemas Comp.,8,100.0,1,76.9,31,No,No,0
+1026,Ing. en Gestión Emp.,4,91.1,2,95.3,119,Si,Si,0
+1027,Ing. en Ciencia de Datos,3,79.8,3,80.3,44,No,No,0
+1028,Ing. en Sistemas Comp.,2,72.4,1,79.6,67,Si,No,0
+1029,Ing. en Sistemas Comp.,7,66.5,2,73.5,27,No,No,1
+1030,Ing. en Ciencia de Datos,8,82.8,3,88.7,35,No,Si,1
+1031,Ing. en Gestión Emp.,5,74.2,3,100.0,33,Si,No,1
+1032,Ing. en Ciencia de Datos,5,68.2,2,72.3,67,No,No,1
+1033,Ing. en Ciencia de Datos,3,75.2,2,84.3,33,No,Si,0
+1034,Ing. Industrial,4,71.3,1,99.5,71,Si,Si,1
+1035,Ing. Industrial,1,96.2,0,83.1,39,Si,No,0
+1036,Ing. Industrial,4,88.9,1,89.0,100,No,No,0
+1037,Ing. en Sistemas Comp.,3,80.9,1,72.3,45,No,No,0
+1038,Ing. en Ciencia de Datos,5,94.3,4,88.7,95,No,Si,1
+1039,Ing. en Gestión Emp.,4,81.7,1,81.9,69,No,No,0
+1040,Ing. en Sistemas Comp.,5,73.2,0,94.8,37,No,No,0
+1041,Ing. en Ciencia de Datos,7,94.7,1,97.1,46,No,No,0
+1042,Ing. en Sistemas Comp.,8,85.9,2,100.0,76,No,No,0
+1043,Ing. en Ciencia de Datos,1,71.7,2,90.4,88,No,No,1
+1044,Ing. Industrial,7,79.3,1,87.6,24,Si,No,0
+1045,Ing. en Ciencia de Datos,5,73.1,2,86.1,114,No,Si,1
+1046,Ing. en Gestión Emp.,5,68.6,0,80.1,86,No,No,1
+1047,Ing. en Sistemas Comp.,2,89.3,2,87.7,68,Si,Si,0
+1048,Ing. en Sistemas Comp.,2,98.2,1,80.8,66,No,No,0
+1049,Ing. en Sistemas Comp.,7,68.4,2,85.9,34,Si,No,0
+1050,Ing. en Ciencia de Datos,6,86.1,2,98.5,46,No,No,0
+1051,Ing. Industrial,7,75.1,3,72.9,128,No,Si,1
+1052,Ing. en Gestión Emp.,2,76.6,0,96.5,28,Si,No,0
+1053,Ing. Industrial,5,75.7,0,98.5,64,Si,No,0
+1054,Ing. Industrial,3,73.2,1,82.7,42,Si,Si,1
+1055,Ing. en Sistemas Comp.,7,81.4,3,60.7,124,No,Si,1
+1056,Ing. Industrial,5,73.5,5,77.3,67,Si,Si,1
+1057,Ing. en Ciencia de Datos,3,83.4,0,98.3,38,No,Si,0
+1058,Ing. en Ciencia de Datos,3,80.5,0,83.7,93,Si,Si,0
+1059,Ing. en Ciencia de Datos,2,78.8,3,73.0,36,No,Si,1
+1060,Ing. en Sistemas Comp.,7,72.8,0,78.4,44,No,Si,1
+1061,Ing. en Sistemas Comp.,4,75.8,0,93.2,77,No,No,0
+1062,Ing. en Ciencia de Datos,1,87.8,2,90.0,18,No,No,0
+1063,Ing. Industrial,2,85.5,1,81.4,91,No,No,0
+1064,Ing. en Sistemas Comp.,2,72.2,1,80.0,73,No,No,0
+1065,Ing. en Ciencia de Datos,4,81.9,2,79.7,101,Si,No,0
+1066,Ing. en Sistemas Comp.,1,87.8,0,73.9,22,Si,No,0
+1067,Ing. en Ciencia de Datos,5,66.0,0,100.0,96,Si,No,0
+1068,Ing. Industrial,6,85.9,1,80.5,26,Si,No,0
+1069,Ing. en Ciencia de Datos,7,75.0,1,97.4,45,Si,No,0
+1070,Ing. Industrial,6,86.1,3,100.0,92,No,Si,1
+1071,Ing. en Gestión Emp.,5,74.1,1,95.0,48,No,Si,1
+1072,Ing. en Ciencia de Datos,8,64.8,0,79.3,96,Si,No,0
+1073,Ing. en Ciencia de Datos,2,66.4,1,88.4,112,No,No,1
+1074,Ing. Industrial,1,81.4,2,83.7,89,Si,Si,0
+1075,Ing. en Gestión Emp.,2,83.3,1,74.1,119,No,No,0
+1076,Ing. en Gestión Emp.,3,72.9,1,87.6,90,No,No,1
+1077,Ing. en Gestión Emp.,2,86.7,0,71.0,63,No,No,0
+1078,Ing. en Ciencia de Datos,2,66.0,1,97.1,93,No,No,1
+1079,Ing. en Sistemas Comp.,5,80.4,0,78.9,71,Si,No,0
+1080,Ing. en Ciencia de Datos,5,70.1,1,86.2,109,No,No,1
+1081,Ing. Industrial,5,75.1,3,87.1,127,No,No,1
+1082,Ing. en Gestión Emp.,6,81.4,0,81.2,107,Si,Si,0
+1083,Ing. en Sistemas Comp.,3,73.3,0,90.5,40,No,No,0
+1084,Ing. en Ciencia de Datos,8,77.5,2,78.8,32,Si,No,0
+1085,Ing. en Sistemas Comp.,8,90.1,1,93.6,110,No,No,0
+1086,Ing. en Sistemas Comp.,5,75.8,3,69.2,100,Si,No,1
+1087,Ing. en Gestión Emp.,1,88.5,2,85.4,52,Si,No,0
+1088,Ing. en Gestión Emp.,6,70.8,0,100.0,95,No,No,1
+1089,Ing. Industrial,4,85.8,3,73.0,101,No,No,1
+1090,Ing. en Sistemas Comp.,1,94.0,3,76.5,102,Si,No,0
+1091,Ing. en Ciencia de Datos,7,58.8,0,89.7,64,Si,No,0
+1092,Ing. en Gestión Emp.,7,73.8,1,86.0,22,No,No,0
+1093,Ing. en Gestión Emp.,1,86.2,1,87.9,55,Si,Si,0
+1094,Ing. en Sistemas Comp.,5,79.2,2,89.4,20,Si,No,0
+1095,Ing. en Gestión Emp.,4,84.3,3,91.0,83,No,No,1
+1096,Ing. en Sistemas Comp.,4,75.6,1,96.2,58,No,No,0
+1097,Ing. en Sistemas Comp.,6,81.8,3,88.5,78,Si,No,0
+1098,Ing. en Sistemas Comp.,4,79.6,1,81.3,43,No,No,0
+1099,Ing. en Ciencia de Datos,7,91.5,0,91.4,42,No,No,0
+1100,Ing. en Ciencia de Datos,3,83.3,1,100.0,25,No,No,0
+1101,Ing. en Ciencia de Datos,5,84.0,3,82.5,79,No,Si,1
+1102,Ing. en Gestión Emp.,4,77.3,1,73.3,121,Si,Si,0
+1103,Ing. en Sistemas Comp.,6,76.6,1,96.2,33,Si,Si,0
+1104,Ing. en Sistemas Comp.,7,77.1,2,82.7,23,Si,No,0
+1105,Ing. Industrial,3,84.6,4,60.1,41,No,No,1
+1106,Ing. en Ciencia de Datos,2,77.2,1,93.3,48,Si,No,0
+1107,Ing. en Sistemas Comp.,2,83.6,1,78.1,58,No,No,0
+1108,Ing. en Gestión Emp.,3,99.7,3,83.0,82,Si,No,0
+1109,Ing. en Ciencia de Datos,7,88.8,2,87.7,114,Si,Si,0
+1110,Ing. en Ciencia de Datos,6,78.1,0,86.1,96,No,No,0
+1111,Ing. en Ciencia de Datos,3,91.8,1,91.8,29,No,No,0
+1112,Ing. en Ciencia de Datos,5,77.3,2,79.2,65,Si,Si,0
+1113,Ing. Industrial,5,62.7,2,89.6,27,No,Si,1
+1114,Ing. Industrial,2,71.9,1,81.1,97,Si,Si,1
+1115,Ing. en Gestión Emp.,4,64.2,0,92.1,63,No,Si,1
+1116,Ing. Industrial,6,77.8,2,90.8,84,No,No,0
+1117,Ing. Industrial,2,81.2,1,73.7,126,Si,Si,0
+1118,Ing. en Ciencia de Datos,4,96.1,1,95.9,70,No,No,0
+1119,Ing. Industrial,4,83.9,2,78.1,90,No,No,0
+1120,Ing. en Sistemas Comp.,8,79.0,0,92.9,65,No,No,0
+1121,Ing. Industrial,5,88.5,0,88.0,51,Si,No,0
+1122,Ing. Industrial,7,61.1,1,100.0,31,Si,No,0
+1123,Ing. en Sistemas Comp.,1,83.1,2,81.5,72,No,No,0
+1124,Ing. en Ciencia de Datos,7,87.9,2,80.2,101,Si,No,0
+1125,Ing. en Ciencia de Datos,1,67.7,0,83.8,104,No,Si,1
+1126,Ing. en Sistemas Comp.,3,91.3,0,80.7,43,No,No,0
+1127,Ing. Industrial,5,84.0,2,92.8,47,No,Si,0
+1128,Ing. Industrial,4,77.3,4,66.2,74,Si,No,1
+1129,Ing. en Ciencia de Datos,6,86.7,0,72.4,105,Si,Si,0
+1130,Ing. en Sistemas Comp.,1,100.0,1,72.3,103,No,No,0
+1131,Ing. en Sistemas Comp.,7,82.6,2,94.5,69,Si,No,0
+1132,Ing. en Ciencia de Datos,4,83.2,0,100.0,24,Si,No,0
+1133,Ing. en Ciencia de Datos,1,76.9,2,82.9,61,Si,Si,0
+1134,Ing. en Sistemas Comp.,1,73.4,1,82.1,37,Si,Si,1
+1135,Ing. Industrial,8,88.5,0,84.8,99,No,Si,0
+1136,Ing. en Sistemas Comp.,1,73.3,2,96.8,35,Si,Si,1
+1137,Ing. en Sistemas Comp.,6,81.6,3,73.8,121,Si,No,1
+1138,Ing. en Gestión Emp.,5,76.7,2,86.6,27,Si,Si,0
+1139,Ing. en Sistemas Comp.,6,85.3,0,94.7,115,No,No,0
+1140,Ing. Industrial,2,84.0,0,89.5,47,No,No,0
+1141,Ing. Industrial,4,90.3,1,86.1,38,Si,Si,0
+1142,Ing. en Ciencia de Datos,5,76.4,0,95.0,122,No,No,0
+1143,Ing. en Sistemas Comp.,8,78.6,2,54.3,25,No,Si,0
+1144,Ing. en Sistemas Comp.,5,72.2,3,91.5,31,No,Si,1
+1145,Ing. en Ciencia de Datos,5,77.0,4,76.8,82,No,Si,1
+1146,Ing. en Ciencia de Datos,7,84.4,3,63.9,61,Si,No,1
+1147,Ing. en Gestión Emp.,5,87.8,3,89.6,39,Si,No,0
+1148,Ing. en Sistemas Comp.,8,72.7,2,99.1,108,Si,No,0
+1149,Ing. en Ciencia de Datos,6,88.8,0,84.2,87,Si,No,0
+1150,Ing. en Ciencia de Datos,5,93.2,2,94.5,35,No,Si,0
+1151,Ing. Industrial,3,80.6,4,100.0,98,Si,No,0
+1152,Ing. en Ciencia de Datos,4,97.9,3,98.5,97,Si,No,0
+1153,Ing. en Ciencia de Datos,5,74.0,4,100.0,97,No,Si,1
+1154,Ing. en Sistemas Comp.,4,69.8,1,92.2,26,No,Si,1
+1155,Ing. Industrial,3,65.0,1,84.8,51,Si,No,0
+1156,Ing. en Ciencia de Datos,3,94.5,1,66.4,56,Si,Si,0
+1157,Ing. en Gestión Emp.,4,86.9,2,81.3,31,Si,No,0
+1158,Ing. en Gestión Emp.,1,80.5,1,74.7,115,No,Si,1
+1159,Ing. en Ciencia de Datos,2,83.5,1,100.0,62,Si,Si,0
+1160,Ing. en Gestión Emp.,7,70.9,0,82.1,117,Si,Si,1
+1161,Ing. en Sistemas Comp.,1,100.0,3,85.4,42,No,Si,1
+1162,Ing. en Gestión Emp.,1,82.2,2,90.1,55,Si,No,0
+1163,Ing. en Gestión Emp.,6,82.0,1,84.5,113,No,No,0
+1164,Ing. en Sistemas Comp.,7,87.5,1,100.0,61,No,No,0
+1165,Ing. en Ciencia de Datos,7,85.3,1,77.2,126,Si,No,0
+1166,Ing. Industrial,1,83.0,3,86.1,32,No,No,0
+1167,Ing. en Sistemas Comp.,5,73.9,2,75.8,92,No,No,1
+1168,Ing. en Ciencia de Datos,6,85.2,0,69.5,113,Si,Si,0
+1169,Ing. en Ciencia de Datos,6,80.6,0,77.3,122,No,No,0
+1170,Ing. en Sistemas Comp.,3,93.1,2,83.6,119,No,No,0
+1171,Ing. en Gestión Emp.,8,95.3,1,79.3,85,No,Si,0
+1172,Ing. en Ciencia de Datos,7,76.4,2,76.4,119,Si,No,0
+1173,Ing. en Sistemas Comp.,1,72.1,1,68.5,27,No,Si,1
+1174,Ing. en Ciencia de Datos,3,79.9,1,83.1,96,Si,No,0
+1175,Ing. en Gestión Emp.,4,81.5,2,67.4,115,Si,No,0
+1176,Ing. en Ciencia de Datos,2,90.8,2,92.4,27,Si,No,0
+1177,Ing. en Gestión Emp.,8,65.8,1,84.9,114,Si,No,0
+1178,Ing. en Sistemas Comp.,8,94.8,0,68.0,45,No,No,0
+1179,Ing. Industrial,8,79.6,1,80.6,16,Si,No,0
+1180,Ing. en Ciencia de Datos,6,77.2,2,75.7,30,Si,No,0
+1181,Ing. en Sistemas Comp.,4,71.9,1,87.5,23,No,Si,1
+1182,Ing. en Ciencia de Datos,8,66.1,3,98.7,87,Si,No,1
+1183,Ing. Industrial,4,88.4,0,63.4,52,Si,No,0
+1184,Ing. Industrial,5,81.7,5,85.3,89,Si,No,0
+1185,Ing. en Ciencia de Datos,8,69.4,0,82.2,68,Si,No,0
+1186,Ing. en Gestión Emp.,2,69.3,2,91.4,70,Si,No,0
+1187,Ing. Industrial,4,78.0,2,86.3,100,No,No,0
+1188,Ing. en Sistemas Comp.,4,96.0,1,75.7,111,Si,No,0
+1189,Ing. en Sistemas Comp.,2,78.7,2,80.5,114,Si,No,0
+1190,Ing. en Ciencia de Datos,8,67.5,0,75.2,123,No,Si,1
+1191,Ing. en Ciencia de Datos,2,78.8,2,95.8,101,No,No,0
+1192,Ing. Industrial,4,78.5,0,84.2,59,Si,No,0
+1193,Ing. Industrial,2,56.7,2,100.0,123,No,No,1
+1194,Ing. en Gestión Emp.,4,80.5,0,83.3,48,Si,Si,0
+1195,Ing. en Sistemas Comp.,4,78.9,0,76.2,23,No,No,0
+1196,Ing. en Sistemas Comp.,5,87.3,2,67.3,102,No,No,0
+1197,Ing. en Gestión Emp.,1,97.6,0,64.2,22,Si,Si,0
+1198,Ing. Industrial,4,91.1,1,66.6,21,No,No,0
+1199,Ing. Industrial,8,78.6,2,86.9,50,Si,No,0
+1200,Ing. en Gestión Emp.,3,71.0,2,89.6,32,No,No,0
+1201,Ing. en Gestión Emp.,6,100.0,3,66.6,17,Si,No,1
+1202,Ing. en Ciencia de Datos,7,81.5,0,93.8,42,No,No,0
+1203,Ing. en Ciencia de Datos,1,81.1,2,78.7,84,No,No,0
+1204,Ing. Industrial,1,80.8,0,85.6,122,No,No,0
+1205,Ing. en Gestión Emp.,1,82.8,0,100.0,58,Si,Si,0
+1206,Ing. en Ciencia de Datos,5,79.7,1,93.9,35,No,Si,0
+1207,Ing. en Ciencia de Datos,4,75.8,1,81.0,42,No,No,0
+1208,Ing. en Gestión Emp.,5,76.1,1,74.2,118,No,Si,1
+1209,Ing. en Ciencia de Datos,4,80.7,1,60.3,68,No,No,0
+1210,Ing. en Ciencia de Datos,8,76.1,1,76.1,68,No,No,0
+1211,Ing. en Sistemas Comp.,5,74.6,3,81.7,79,Si,No,1
+1212,Ing. en Gestión Emp.,5,82.0,1,73.1,114,Si,No,0
+1213,Ing. en Gestión Emp.,6,78.7,3,82.6,35,No,No,0
+1214,Ing. en Ciencia de Datos,3,94.5,2,84.8,121,Si,No,0
+1215,Ing. en Gestión Emp.,5,57.1,2,81.5,113,No,No,1
+1216,Ing. en Ciencia de Datos,6,90.8,1,76.8,27,No,Si,0
+1217,Ing. en Sistemas Comp.,2,92.2,1,85.9,71,No,No,0
+1218,Ing. en Gestión Emp.,3,62.3,2,88.9,63,Si,No,0
+1219,Ing. en Gestión Emp.,8,77.9,3,72.0,68,No,No,1
+1220,Ing. Industrial,5,77.7,1,99.5,24,No,No,0
+1221,Ing. en Gestión Emp.,7,68.3,4,82.9,67,No,Si,1
+1222,Ing. en Sistemas Comp.,1,74.0,1,84.2,58,No,No,0
+1223,Ing. en Ciencia de Datos,2,71.0,1,91.8,61,Si,No,0
+1224,Ing. en Sistemas Comp.,2,96.8,3,86.6,67,No,No,0
+1225,Ing. en Ciencia de Datos,8,89.4,1,94.5,88,No,No,0
+1226,Ing. en Ciencia de Datos,6,92.4,1,87.2,60,Si,No,0
+1227,Ing. Industrial,2,87.5,2,77.3,27,Si,No,0
+1228,Ing. en Sistemas Comp.,3,70.8,1,88.0,51,No,No,0
+1229,Ing. Industrial,5,76.3,3,71.4,116,No,No,1
+1230,Ing. en Gestión Emp.,5,85.4,2,85.2,38,No,No,0
+1231,Ing. en Gestión Emp.,7,70.0,1,83.6,16,No,Si,1
+1232,Ing. en Sistemas Comp.,8,87.4,3,81.7,100,Si,No,0
+1233,Ing. en Sistemas Comp.,1,78.8,2,82.6,95,Si,No,0
+1234,Ing. en Sistemas Comp.,6,77.6,0,63.3,114,Si,Si,0
+1235,Ing. en Ciencia de Datos,1,87.4,1,78.0,28,Si,Si,0
+1236,Ing. en Gestión Emp.,2,85.0,1,85.0,24,Si,No,0
+1237,Ing. en Ciencia de Datos,8,77.8,3,85.8,49,Si,No,0
+1238,Ing. en Ciencia de Datos,7,91.4,3,72.7,39,Si,No,1
+1239,Ing. en Gestión Emp.,1,71.3,1,97.9,17,No,No,0
+1240,Ing. en Ciencia de Datos,3,86.5,1,74.5,125,Si,Si,0
+1241,Ing. Industrial,5,86.3,0,94.7,116,No,Si,0
+1242,Ing. Industrial,2,78.2,1,88.7,31,No,Si,0
+1243,Ing. Industrial,7,83.9,0,76.9,26,Si,Si,0
+1244,Ing. en Sistemas Comp.,1,69.7,0,100.0,68,Si,Si,1
+1245,Ing. en Ciencia de Datos,6,89.3,3,70.9,38,Si,No,1
+1246,Ing. Industrial,3,79.3,1,94.1,43,Si,No,0
+1247,Ing. en Sistemas Comp.,3,76.3,1,95.0,57,No,Si,0
+1248,Ing. Industrial,1,90.4,1,76.6,39,Si,Si,0
+1249,Ing. Industrial,5,74.7,2,99.3,114,Si,No,0
+1250,Ing. Industrial,1,68.3,0,81.2,74,Si,Si,1
+1251,Ing. en Ciencia de Datos,2,67.0,2,87.2,104,No,No,1
+1252,Ing. en Sistemas Comp.,1,86.5,1,86.9,116,No,No,0
+1253,Ing. Industrial,3,69.5,2,82.5,79,No,No,0
+1254,Ing. en Sistemas Comp.,7,96.8,0,92.9,98,Si,Si,0
+1255,Ing. en Ciencia de Datos,1,62.3,0,92.7,42,No,Si,1
+1256,Ing. en Sistemas Comp.,5,96.3,1,64.8,30,No,No,0
+1257,Ing. Industrial,8,82.9,1,98.3,61,No,No,0
+1258,Ing. en Gestión Emp.,7,80.1,4,65.7,95,No,No,1
+1259,Ing. en Sistemas Comp.,6,76.1,2,95.4,118,Si,Si,0
+1260,Ing. en Ciencia de Datos,4,84.6,0,96.4,106,No,No,0
+1261,Ing. en Gestión Emp.,1,80.7,2,72.0,72,No,No,0
+1262,Ing. Industrial,5,90.9,1,79.5,90,Si,No,0
+1263,Ing. en Ciencia de Datos,7,82.0,3,71.8,41,No,Si,1
+1264,Ing. en Sistemas Comp.,5,82.4,1,81.6,67,No,Si,0
+1265,Ing. Industrial,6,77.7,0,80.6,56,Si,No,0
+1266,Ing. en Gestión Emp.,3,80.5,1,92.6,73,No,No,0
+1267,Ing. en Gestión Emp.,5,83.8,0,98.4,61,No,No,0
+1268,Ing. en Gestión Emp.,7,65.6,1,99.4,108,No,No,1
+1269,Ing. en Sistemas Comp.,5,68.9,0,77.8,119,Si,No,0
+1270,Ing. en Ciencia de Datos,5,87.7,0,81.7,48,No,No,0
+1271,Ing. Industrial,5,82.5,4,65.5,51,Si,No,1
+1272,Ing. Industrial,2,79.3,2,75.1,20,No,No,0
+1273,Ing. Industrial,2,81.2,0,94.6,21,Si,No,0
+1274,Ing. Industrial,3,84.1,1,100.0,110,No,No,0
+1275,Ing. en Sistemas Comp.,1,76.1,1,70.4,110,No,No,0
+1276,Ing. en Sistemas Comp.,5,74.0,1,77.5,39,No,Si,1
+1277,Ing. en Gestión Emp.,6,82.8,1,83.7,47,No,No,0
+1278,Ing. en Gestión Emp.,1,72.2,4,87.1,69,No,Si,1
+1279,Ing. en Gestión Emp.,6,84.7,2,75.1,72,No,No,0
+1280,Ing. en Gestión Emp.,1,65.7,1,88.7,21,Si,No,0
+1281,Ing. Industrial,3,90.3,3,78.8,71,No,Si,1
+1282,Ing. en Sistemas Comp.,5,85.3,3,83.8,26,Si,No,0
+1283,Ing. en Sistemas Comp.,5,83.3,1,90.0,30,No,No,0
+1284,Ing. en Ciencia de Datos,4,89.8,3,84.1,94,Si,Si,1
+1285,Ing. en Sistemas Comp.,6,96.0,0,79.2,57,Si,No,0
+1286,Ing. en Ciencia de Datos,1,90.1,1,82.8,114,No,No,0
+1287,Ing. en Sistemas Comp.,1,64.4,0,83.0,91,No,No,1
+1288,Ing. en Sistemas Comp.,8,69.5,0,79.9,21,Si,No,0
+1289,Ing. en Ciencia de Datos,8,75.4,3,81.2,114,No,Si,1
+1290,Ing. en Sistemas Comp.,2,81.2,2,100.0,125,No,Si,0
+1291,Ing. en Ciencia de Datos,4,85.7,0,90.2,65,No,No,0
+1292,Ing. en Ciencia de Datos,7,80.6,0,80.7,87,Si,No,0
+1293,Ing. Industrial,8,82.7,0,91.7,46,No,No,0
+1294,Ing. en Sistemas Comp.,7,74.2,2,80.3,89,No,Si,1
+1295,Ing. en Ciencia de Datos,2,75.5,0,96.9,22,No,No,0
+1296,Ing. en Sistemas Comp.,2,68.3,0,88.1,111,No,Si,1
+1297,Ing. en Gestión Emp.,2,72.7,2,82.8,101,No,Si,1
+1298,Ing. en Ciencia de Datos,6,68.8,1,88.9,103,Si,No,0
+1299,Ing. en Gestión Emp.,6,72.2,0,66.7,86,Si,No,1
+1300,Ing. en Ciencia de Datos,3,90.5,0,71.6,59,Si,No,0
+1301,Ing. en Ciencia de Datos,3,72.5,3,70.9,100,Si,No,1
+1302,Ing. en Sistemas Comp.,2,100.0,0,85.6,73,Si,No,0
+1303,Ing. en Sistemas Comp.,4,85.4,2,100.0,18,No,No,0
+1304,Ing. en Gestión Emp.,1,82.7,4,100.0,118,Si,No,0
+1305,Ing. en Gestión Emp.,6,73.3,1,91.0,81,No,No,1
+1306,Ing. Industrial,4,87.3,2,89.5,43,Si,No,0
+1307,Ing. en Sistemas Comp.,5,75.8,1,64.2,119,No,No,0
+1308,Ing. en Sistemas Comp.,6,82.1,3,78.0,43,No,Si,1
+1309,Ing. en Gestión Emp.,6,100.0,0,75.3,112,Si,No,0
+1310,Ing. en Ciencia de Datos,3,80.1,0,77.2,112,Si,Si,0
+1311,Ing. en Sistemas Comp.,1,91.3,2,82.2,42,No,No,0
+1312,Ing. en Ciencia de Datos,1,74.7,4,78.8,91,Si,No,1
+1313,Ing. en Ciencia de Datos,8,80.7,3,62.2,93,No,Si,1
+1314,Ing. Industrial,7,96.9,2,92.2,101,No,Si,0
+1315,Ing. Industrial,7,75.4,3,72.2,58,No,No,1
+1316,Ing. en Gestión Emp.,7,97.3,0,86.6,104,Si,No,0
+1317,Ing. en Sistemas Comp.,7,87.4,0,100.0,18,No,Si,0
+1318,Ing. en Ciencia de Datos,5,75.9,2,73.9,104,No,No,0
+1319,Ing. en Ciencia de Datos,5,86.7,3,56.2,118,No,No,1
+1320,Ing. en Ciencia de Datos,6,89.8,2,80.9,23,Si,No,0
+1321,Ing. en Sistemas Comp.,2,86.6,3,96.1,19,No,No,0
+1322,Ing. en Gestión Emp.,3,66.9,1,100.0,70,No,No,0
+1323,Ing. en Gestión Emp.,3,74.5,1,70.5,110,No,Si,1
+1324,Ing. en Ciencia de Datos,7,78.8,1,89.5,98,Si,No,0
+1325,Ing. Industrial,6,80.3,1,78.9,64,No,No,0
+1326,Ing. en Gestión Emp.,8,86.6,2,82.8,89,Si,Si,0
+1327,Ing. en Sistemas Comp.,4,82.6,3,100.0,29,No,Si,1
+1328,Ing. en Gestión Emp.,2,69.0,2,67.5,46,No,Si,1
+1329,Ing. en Sistemas Comp.,6,84.4,0,86.8,42,No,No,0
+1330,Ing. en Ciencia de Datos,2,86.5,1,89.1,36,No,No,0
+1331,Ing. en Sistemas Comp.,2,86.0,1,95.9,119,Si,No,0
+1332,Ing. en Gestión Emp.,2,90.7,2,85.1,31,No,No,0
+1333,Ing. en Ciencia de Datos,6,88.5,0,87.4,73,Si,No,0
+1334,Ing. en Ciencia de Datos,7,85.1,3,79.7,104,No,Si,1
+1335,Ing. en Ciencia de Datos,3,80.4,3,87.0,122,No,Si,1
+1336,Ing. en Ciencia de Datos,3,66.1,1,80.2,85,No,No,1
+1337,Ing. Industrial,7,84.9,1,90.8,120,Si,Si,0
+1338,Ing. en Gestión Emp.,2,82.9,1,79.9,71,No,No,0
+1339,Ing. en Sistemas Comp.,4,83.4,1,88.1,40,No,No,0
+1340,Ing. en Ciencia de Datos,1,69.5,2,83.7,39,Si,Si,1
+1341,Ing. en Sistemas Comp.,6,71.3,0,96.4,24,No,No,0
+1342,Ing. en Sistemas Comp.,1,90.5,2,83.4,59,Si,No,0
+1343,Ing. en Ciencia de Datos,8,80.6,3,64.5,97,Si,No,1
+1344,Ing. en Sistemas Comp.,7,87.1,2,97.9,25,Si,Si,0
+1345,Ing. en Sistemas Comp.,4,81.3,0,74.0,91,Si,No,0
+1346,Ing. en Gestión Emp.,6,81.3,2,76.8,67,No,Si,0
+1347,Ing. en Gestión Emp.,7,89.4,2,77.4,86,Si,No,0
+1348,Ing. en Ciencia de Datos,2,76.4,0,99.1,118,Si,Si,0
+1349,Ing. en Sistemas Comp.,3,81.9,1,60.5,82,Si,No,0
+1350,Ing. en Gestión Emp.,1,76.8,0,100.0,125,No,No,0
+1351,Ing. en Sistemas Comp.,5,77.1,0,95.6,109,No,No,0
+1352,Ing. Industrial,5,78.2,5,86.5,42,Si,Si,1
+1353,Ing. en Gestión Emp.,4,83.0,2,83.4,89,Si,Si,0
+1354,Ing. en Ciencia de Datos,2,76.7,2,87.1,121,No,Si,0
+1355,Ing. en Ciencia de Datos,8,92.3,2,89.7,79,Si,Si,0
+1356,Ing. en Gestión Emp.,1,72.9,1,91.1,63,No,Si,1
+1357,Ing. en Ciencia de Datos,2,79.3,0,90.1,61,Si,No,0
+1358,Ing. en Sistemas Comp.,1,77.0,0,85.0,66,No,Si,0
+1359,Ing. Industrial,4,94.0,1,81.8,116,Si,Si,0
+1360,Ing. en Sistemas Comp.,4,82.8,1,82.3,102,No,No,0
+1361,Ing. en Sistemas Comp.,8,90.3,1,81.9,68,Si,Si,0
+1362,Ing. en Gestión Emp.,5,67.6,3,96.5,74,No,Si,1
+1363,Ing. en Sistemas Comp.,2,83.4,2,90.5,71,Si,Si,0
+1364,Ing. en Sistemas Comp.,6,89.0,0,51.7,61,No,No,0
+1365,Ing. Industrial,5,81.7,0,91.2,45,Si,Si,0
+1366,Ing. en Sistemas Comp.,2,90.6,2,86.1,119,Si,No,0
+1367,Ing. Industrial,5,76.3,2,83.8,60,No,No,0
+1368,Ing. Industrial,6,80.6,1,79.7,128,Si,Si,0
+1369,Ing. en Ciencia de Datos,3,100.0,3,96.4,40,No,No,0
+1370,Ing. en Ciencia de Datos,3,77.7,0,94.4,127,No,Si,0
+1371,Ing. en Ciencia de Datos,8,77.0,1,75.5,128,No,Si,0
+1372,Ing. en Ciencia de Datos,3,94.1,1,88.5,19,Si,No,0
+1373,Ing. en Ciencia de Datos,3,95.2,1,73.3,98,No,No,0
+1374,Ing. en Gestión Emp.,7,76.3,3,68.8,66,Si,No,1
+1375,Ing. en Ciencia de Datos,1,77.2,1,77.1,119,No,Si,0
+1376,Ing. en Sistemas Comp.,7,78.5,0,93.5,89,No,No,0
+1377,Ing. Industrial,7,68.9,1,94.5,68,No,No,0
+1378,Ing. en Ciencia de Datos,8,72.7,1,84.2,47,No,Si,1
+1379,Ing. Industrial,7,72.0,2,92.0,64,No,Si,1
+1380,Ing. en Ciencia de Datos,3,74.1,4,89.7,52,Si,Si,1
+1381,Ing. en Ciencia de Datos,6,80.7,1,76.9,41,No,Si,0
+1382,Ing. en Gestión Emp.,8,83.1,2,88.8,112,Si,No,0
+1383,Ing. en Gestión Emp.,8,95.0,1,92.8,29,No,No,0
+1384,Ing. Industrial,4,72.0,3,92.3,110,No,No,1
+1385,Ing. en Gestión Emp.,8,89.9,1,97.1,75,No,Si,0
+1386,Ing. Industrial,4,79.1,0,91.8,35,Si,No,0
+1387,Ing. en Ciencia de Datos,8,80.6,0,84.2,60,No,Si,0
+1388,Ing. en Ciencia de Datos,1,87.1,1,95.8,83,Si,Si,0
+1389,Ing. en Gestión Emp.,3,70.9,2,83.7,20,No,Si,1
+1390,Ing. Industrial,8,84.4,2,74.3,52,Si,Si,0
+1391,Ing. Industrial,3,82.5,2,82.2,76,Si,No,0
+1392,Ing. en Sistemas Comp.,3,85.4,1,75.8,100,Si,No,0
+1393,Ing. en Sistemas Comp.,5,83.6,0,76.6,76,No,No,0
+1394,Ing. en Gestión Emp.,8,100.0,4,82.4,96,Si,Si,1
+1395,Ing. en Sistemas Comp.,2,75.3,2,75.3,92,Si,Si,0
+1396,Ing. Industrial,5,76.2,2,80.6,88,No,Si,0
+1397,Ing. Industrial,2,75.4,0,63.2,60,Si,No,0
+1398,Ing. en Sistemas Comp.,3,76.0,1,86.3,27,No,No,0
+1399,Ing. en Gestión Emp.,3,75.3,1,84.0,109,No,No,0
+1400,Ing. en Gestión Emp.,5,91.7,2,75.0,108,No,Si,0
